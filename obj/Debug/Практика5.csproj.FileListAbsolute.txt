@@ -1,0 +1,12 @@
+C:\Users\maksi\OneDrive\Рабочий стол\prac5-main\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\maksi\OneDrive\Рабочий стол\prac5-main\bin\Debug\WindowsFormsApp2.exe
+C:\Users\maksi\OneDrive\Рабочий стол\prac5-main\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\maksi\OneDrive\Рабочий стол\prac5-main\obj\Debug\Практика5.csproj.AssemblyReference.cache
+C:\Users\maksi\OneDrive\Рабочий стол\prac5-main\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\maksi\OneDrive\Рабочий стол\prac5-main\obj\Debug\WindowsFormsApp2.Form2.resources
+C:\Users\maksi\OneDrive\Рабочий стол\prac5-main\obj\Debug\WindowsFormsApp2.Form3.resources
+C:\Users\maksi\OneDrive\Рабочий стол\prac5-main\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\maksi\OneDrive\Рабочий стол\prac5-main\obj\Debug\Практика5.csproj.GenerateResource.cache
+C:\Users\maksi\OneDrive\Рабочий стол\prac5-main\obj\Debug\Практика5.csproj.CoreCompileInputs.cache
+C:\Users\maksi\OneDrive\Рабочий стол\prac5-main\obj\Debug\WindowsFormsApp2.exe
+C:\Users\maksi\OneDrive\Рабочий стол\prac5-main\obj\Debug\WindowsFormsApp2.pdb
